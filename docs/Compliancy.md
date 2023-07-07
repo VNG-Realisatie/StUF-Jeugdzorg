@@ -70,7 +70,7 @@ de compliancy testen wordt deze combinatie van softwareproducten, de
 binnengemeentelijke keten, als één geheel gezien. Er worden geen tests
 uitgevoerd op koppelingen binnen deze keten.
 
-<img src="./images/binnengemeentelijke_keten.png" width="600"/>
+<img src="./images/Binnengemeentelijke_keten.png" width="600"/>
 
 Figuur 1: Binnengemeentelijke keten wordt gezien als één geheel tijdens
 uitvoer van de compliancy testen
