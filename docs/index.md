@@ -19,7 +19,7 @@ koppelvlak wordt in opdracht van VenJ ontwikkeld en beheerd door
 VNG-Realisatie.  
 
 Het StUF-koppelvlak Jeugdzorg is een deels op
-<span style="color:red">[StUF-ZKN](Sectormodellen_Zaken:_StUF-ZKN "wikilink")</span> gebaseerde
+<span style="color:red">StUF-ZKN<!--[StUF-ZKN](Sectormodellen_Zaken:_StUF-ZKN "wikilink")--></span> gebaseerde
 berichtenstandaard. De standaard ondersteunt het indienen van het
 verzoek tot onderzoek (VTO) door een gemeente, het melden van de
 voortgang van de behandeling van deze en ambtshalve onderzoeken (door de
