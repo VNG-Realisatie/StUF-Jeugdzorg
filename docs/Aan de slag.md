@@ -13,8 +13,8 @@ Softwarecatalogus](https://www.softwarecatalogus.nl/pakketten/norm_version/StUF%
 voor de applicaties en bijbehorende leveranciers die dit koppelvlak
 ondersteunen.
 
-Zie voor informatie over CORV en het aansluiten daarop het [dossier CORV
-op de website van de VNG](https://vng.nl/corv).
+Zie voor informatie over CORV en het aansluiten daarop het <span style="color:red">[dossier CORV
+op de website van de VNG](https://vng.nl/corv)</span>.
 
 Uw leverancier ondersteunt u bij het realiseren van de aansluiting op
 CORV en het in stand houden van de aansluiting bij een nieuwe versie van
