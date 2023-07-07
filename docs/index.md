@@ -14,8 +14,7 @@ ondersteuning van de samenwerking, digitaal dient plaats te vinden. Het
 StUF-koppelvlak Jeugdzorg specificeert de standaard op basis waarvan
 gemeenten (en Veilig Thuis-organisaties) digitaal communiceren met
 andere Jeugdzorgpartijen (zoals de Raad voor de Kinderbescherming, de
-Rechtbank en de Politie) via de voorziening
-[CORV](https://vng.nl/onderwerpenindex/jeugd/jeugdbescherming-corv). Het
+Rechtbank en de Politie) via de voorziening CORV. Het
 koppelvlak wordt in opdracht van VenJ ontwikkeld en beheerd door
 VNG-Realisatie.  
 Het StUF-koppelvlak Jeugdzorg is een deels op
