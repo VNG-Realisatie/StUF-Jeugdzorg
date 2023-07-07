@@ -1,0 +1,15 @@
+baseurl: "/StUF-Jeugdzorg"
+apiname: "StUF-Jeugdzorg"
+url: "http://localhost:4000"
+
+plugins:
+  - jekyll-redirect-from
+  - jekyll-remote-theme
+
+remote_theme: melsk-r/jekyll-theme-vng-realisatie
+
+github: VNG-Realisatie/StUF-Jeugdzorg
+
+theme: jekyll-theme-time-machine
+
+project_name: VNG-Realisatie/StUF-Jeugdzorg
