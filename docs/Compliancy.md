@@ -3,11 +3,10 @@ layout: page-with-side-nav
 title: Compliancy StUF-koppelvlak Jeugdzorg (CORV)
 ---
 # Compliancy StUF-koppelvlak Jeugdzorg (CORV)
-|                |           |
-|----------------|-----------|
-| Documentversie | 1.0       |
-| Datum          | 4-10-2019 |
-| Status         | final     |
+
+| Documentversie | Datum     | Status    |
+|----------------|-----------|-----------|
+| 1.0            | 4-10-2019 | final     |
 
 ## Revisie historie
 
