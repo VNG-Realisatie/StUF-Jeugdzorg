@@ -10,7 +10,7 @@ title: Compliancy StUF-koppelvlak Jeugdzorg (CORV)
 
 ## Revisie historie
 
-| Versie | Datum      | Reden en aard wijzigingeeld                                                        |
+| Versie | Datum      | Reden en aard wijziging                                                            |
 |--------|------------|------------------------------------------------------------------------------------|
 | 1.0    | 01-11-2013 | Afronding en consistent met de ingerichte scenario’s op StUF Testplatform.         |
 | 1.0    | 6-11-2015  | Definitieve versie bij StUF jeugdzorg 1.0.1                                        |
