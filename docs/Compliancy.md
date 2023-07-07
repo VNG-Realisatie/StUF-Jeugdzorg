@@ -70,7 +70,7 @@ de compliancy testen wordt deze combinatie van softwareproducten, de
 binnengemeentelijke keten, als één geheel gezien. Er worden geen tests
 uitgevoerd op koppelingen binnen deze keten.
 
-![Bestand:binnengemeentelijke_keten.png](images/binnengemeentelijke_keten.png)
+<img src="./images/binnengemeentelijke_keten.png" width="600"/>
 
 Figuur 1: Binnengemeentelijke keten wordt gezien als één geheel tijdens
 uitvoer van de compliancy testen
@@ -80,7 +80,7 @@ uitvoer van de compliancy testen
 Om compliance op StUF Jeugdzorg koppelvlak aan te tonen moeten vier
 stappen doorlopen worden. Deze staan weergegeven in figuur 2.
 
-![Te doorlopen stappen om compliance aan te tonen](iamges/Te_doorlopen_stappen.png)
+<img src="./images/Te_doorlopen_stappen.png" width="600"/>
 
 Figuur 2: Te doorlopen stappen om compliance aan te tonen
 
