@@ -151,11 +151,11 @@ valideren. Daarmee is het een tool dat ontwikkelaars helpt bij het
 ontwikkelen van de noodzakelijke berichten.
 
 Op het [StUF Testplatform](http://www.stuftestplatform.nl) vindt u de
-[handleiding](https://www.gemmaonline.nl/images/gemmaonline/2/29/Gebruikershandleiding_StUF_Testplatform.pdf)
+[handleiding](./documenten/Gebruikershandleiding_StUF_Testplatform.pdf)
 waarin wordt toegelicht hoe het testplatform gebruikt kan worden.
 
 ## Bijlage 1: Testscenario’s StUF Testplatform
 
 Zie de
-[documentatie](documenten/Testset_StUF-koppelvlak_Jeugdzorg_1.0.1.zip)
+[documentatie](./documenten/Testset_StUF-koppelvlak_Jeugdzorg_1.0.1.zip)
 bij deze testset.
