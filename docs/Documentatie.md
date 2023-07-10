@@ -58,17 +58,17 @@ alleen enkele correcties aangebracht m.b.t. de VT Melding en VT
 Terugkoppeling berichten. De 1.0-versie is per 24 november 2015 in
 productie ('in gebruik') genomen in het berichtenverkeer.
 
-		<ul>
-			{% for i in page.folder_files %}
-				{% if i.group == 107 %} 
-					<li>
-					  <a href="{{ i.path | base_url }}">
-						{{ i.title }} - {{ i.group }}
-					  </a>
-					</li>
-				{% endif %} 
-			{% endfor %}
-		</ul>
+<ul>
+	{% for i in page.folder_files %}
+		{% if i.group == 107 %} 
+			<li>
+			  <a href="{{ i.path | base_url }}">
+				{{ i.title }}
+			  </a>
+			</li>
+		{% endif %} 
+	{% endfor %}
+</ul>
 
 ### <small>StUF-koppelvlak Jeugdzorg 1.0.6</small>
 
@@ -78,14 +78,14 @@ VT Terugkoppeling bericht enkele wijzigingen aangebracht. De 1.0-versie
 is per 24 november 2015 in productie ('in gebruik') genomen in het
 berichtenverkeer.
 
-		<ul>
-			{% for i in page.folder_files %}
-				{% if i.group == 106 %} 
-					<li>
-					  <a href="{{ i.path | base_url }}">
-						{{ i.title }} - {{ i.group }}
-					  </a>
-					</li>
-				{% endif %} 
-			{% endfor %}
-		</ul>
+<ul>
+	{% for i in page.folder_files %}
+		{% if i.group == 106 %} 
+			<li>
+			  <a href="{{ i.path | base_url }}">
+				{{ i.title }}
+			  </a>
+			</li>
+		{% endif %} 
+	{% endfor %}
+</ul>
