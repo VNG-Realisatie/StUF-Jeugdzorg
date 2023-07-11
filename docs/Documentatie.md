@@ -68,7 +68,7 @@ folder_files:
 Hieronder kunt u de zipfiles met de documentatie en de XML-Schema's voor
 het StUF-koppelvlak Jeugdzorg (CORV) vinden.
 
-### <small>StUF-koppelvlak Jeugdzorg 1.0.7</small>
+## StUF-koppelvlak Jeugdzorg 1.0.7
 
 Dit betreft de actuele documentatie van de 1.0-versie van het koppelvlak
 d.d. 16-09-2020. Ten opzichte van versie 1.0.6 zijn hierin in de
@@ -102,7 +102,7 @@ productie ('in gebruik') genomen in het berichtenverkeer.
 	</tbody>
 </table>
 
-### <small>StUF-koppelvlak Jeugdzorg 1.0.6</small>
+## StUF-koppelvlak Jeugdzorg 1.0.6
 
 Dit betreft de actuele documentatie van de 1.0-versie van het koppelvlak
 d.d. 10-07-2020. Ten opzichte van versie 1.0.5 zijn hierin alleen in het
