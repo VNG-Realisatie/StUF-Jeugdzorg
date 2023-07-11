@@ -43,13 +43,13 @@ folder_files:
     group: 106
     versie: 1.06
     status: Definitief
-    omschrijving: Beschrijving van het StUF-koppelvlak Jeugdzorg (CORV) versie 1.0.6 in twee varianten: de officiële versie en een exemplaar met gemarkeerde wijzigingen t.o.v. versie 1.0.5.
+    omschrijving: Beschrijving van het StUF-koppelvlak Jeugdzorg (CORV) versie 1.0.6 in twee varianten, de officiële versie en een exemplaar met gemarkeerde wijzigingen t.o.v. versie 1.0.5.
   - title: StUF-Koppelvlak_Jeugdzorg_v1.0.7_20200916.zip
     path: documenten/StUF-Koppelvlak_Jeugdzorg_v1.0.7_20200916.zip
     group: 107
     versie: 1.07
     status: Definitief
-    omschrijving: Beschrijving van het StUF-koppelvlak Jeugdzorg (CORV) versie 1.0.7 in twee varianten: de officiële versie en een exemplaar met gemarkeerde wijzigingen t.o.v. versie 1.0.6.
+    omschrijving: Beschrijving van het StUF-koppelvlak Jeugdzorg (CORV) versie 1.0.7 in twee varianten, de officiële versie en een exemplaar met gemarkeerde wijzigingen t.o.v. versie 1.0.6.
   - title: StUF-Kv_Jeugdzorg_-_Referentielijsten_v1.0_20230703.zip
     path: documenten/StUF-Kv_Jeugdzorg_-_Referentielijsten_v1.0_20230703.zip
     group: 107
