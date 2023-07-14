@@ -1,6 +1,6 @@
 ---
 layout: page-with-side-nav
-title: Documenten StUF-koppelvlak Jeugdzorg (CORV)
+title: Documentatie StUF-koppelvlak Jeugdzorg (CORV)
 folder_files:
   - title: StUF-koppelvlak_Jeugdzorg_-_versie_1.0.6_20200708_-_schemas_(normatieve_versie).zip
     path: documenten/StUF-koppelvlak_Jeugdzorg_-_versie_1.0.6_20200708_-_schemas_(normatieve_versie).zip
@@ -63,7 +63,7 @@ folder_files:
     status: Definitief
     omschrijving: Bij versie 1.0.6 en 1.0.7 van het StUF-koppelvlak Jeugdzorg behorende referentielijstwaarden met waarden van jeugdzorgrollen en instanties per 1-8-2023. De uiterste verwerkingsdatum van wijzigingen voor de september-release 2023 is 28 juli 2023.
 ---
-# Documenten
+# Documentatie
 
 Hieronder kunt u de zipfiles met de documentatie en de XML-Schema's voor
 het StUF-koppelvlak Jeugdzorg (CORV) vinden.
