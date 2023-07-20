@@ -5,8 +5,8 @@ title: Koppelvlak StUF-Jeugdzorg
 # Koppelvlak StUF-Jeugdzorg
 
 **Actuele versie:** 1.0.7  
-**Beheerder**  VNG Realisatie<br/>
-**Afkorting**  StUF-CORV
+**Beheerder:**  VNG Realisatie<br/>
+**Afkorting:**  StUF-CORV
 
 ## Inleiding
 
