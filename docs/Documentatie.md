@@ -50,18 +50,18 @@ folder_files:
     versie: 1.07
     status: Definitief
     omschrijving: Beschrijving van het StUF-koppelvlak Jeugdzorg (CORV) versie 1.0.7 in twee varianten, de officiële versie en een exemplaar met gemarkeerde wijzigingen t.o.v. versie 1.0.6.
-  - title: StUF-Kv_Jeugdzorg_-_Referentielijsten_v1.0_20230703.zip
+  - title: StUF-Kv Jeugdzorg_-_Referentielijsten_v1.0_20230901.zip
     path: documenten/StUF-Kv Jeugdzorg_-_Referentielijsten_v1.0_20230901.zip
     group: 107
-    versie: 1.0.52
+    versie: 1.0.54
     status: Definitief
-    omschrijving: Bij versie 1.0.6 en 1.0.7 van het StUF-koppelvlak Jeugdzorg behorende referentielijstwaarden met waarden van jeugdzorgrollen en instanties per 1-8-2023. De uiterste verwerkingsdatum van wijzigingen voor de september-release 2023 is 28 juli 2023.
-  - title: StUF-Kv_Jeugdzorg_-_Referentielijsten_v1.0_20230703.zip
+    omschrijving: Bij versie 1.0.6 en 1.0.7 van het StUF-koppelvlak Jeugdzorg behorende referentielijstwaarden met waarden van jeugdzorgrollen en instanties per 1-10-2023. De uiterste verwerkingsdatum van wijzigingen voor de november-release 2023 is 29 september2023.
+  - title: StUF-Kv Jeugdzorg_-_Referentielijsten_v1.0_20230901.zip
     path: documenten/StUF-Kv Jeugdzorg_-_Referentielijsten_v1.0_20230901.zip
     group: 106
-    versie: 1.0.52
+    versie: 1.0.54
     status: Definitief
-    omschrijving: Bij versie 1.0.6 en 1.0.7 van het StUF-koppelvlak Jeugdzorg behorende referentielijstwaarden met waarden van jeugdzorgrollen en instanties per 1-8-2023. De uiterste verwerkingsdatum van wijzigingen voor de september-release 2023 is 28 juli 2023.
+    omschrijving: Bij versie 1.0.6 en 1.0.7 van het StUF-koppelvlak Jeugdzorg behorende referentielijstwaarden met waarden van jeugdzorgrollen en instanties per 1-10-2023. De uiterste verwerkingsdatum van wijzigingen voor de november-release 2023 is 29 september2023.
 ---
 # Documentatie
 
