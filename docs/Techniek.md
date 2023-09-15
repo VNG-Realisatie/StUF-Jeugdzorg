@@ -14,4 +14,4 @@ Hierin is het StUF-bericht 'verpakt en versleuteld' t.b.v. veilige verzending na
 Hiertoe staat er een ebMS- of DigiKoppeling-adapter tussen de jeugdzorgapplicatie en het internet dat de berichten transporteert van en naar CORV. 
 Ook deze adapter moet het StUF Jeugdzorg koppelvlak ondersteunen. Zie de [GEMMA Softwarecatalogus](https://www.softwarecatalogus.nl/pakketten/referentiecomponent_pakket/Digikoppeling%20adapter) voor informatie.
 
-<img src="./images/CORV-netwerk_en_aansluiting_gemeenten_v20151008.png" width="600"/>
+<img src="./images/CORV-netwerk_en_aansluiting_gemeenten_v20151008.png" width="800"/>
