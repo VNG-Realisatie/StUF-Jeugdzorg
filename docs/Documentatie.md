@@ -91,7 +91,7 @@ productie ('in gebruik') genomen in het berichtenverkeer.
 <table>
 	<thead>
 		<tr>
-			<th>Document</th><th>Versie</th><th>Beheerstatus</th><th>Beschrijving</th>
+			<th>Document</th><th>Versie</th><th>Beheerstatus</th><th>Beschrijving</th><th>Versiedatum</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -106,6 +106,7 @@ productie ('in gebruik') genomen in het berichtenverkeer.
 					<td>{{ i.versie }}</td>
 					<td>{{ i.status }}</td>
 					<td>{{ i.omschrijving }}</td>
+					<td>{{ i.datum }}</td>
 				</tr>
 			{% endif %} 
 		{% endfor %}
@@ -123,7 +124,7 @@ berichtenverkeer.
 <table>
 	<thead>
 		<tr>
-			<th>Document</th><th>Versie</th><th>Beheerstatus</th><th>Beschrijving</th>
+			<th>Document</th><th>Versie</th><th>Beheerstatus</th><th>Beschrijving</th><th>Versiedatum</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -138,6 +139,7 @@ berichtenverkeer.
 					<td>{{ i.versie }}</td>
 					<td>{{ i.status }}</td>
 					<td>{{ i.omschrijving }}</td>
+					<td>{{ i.datum }}</td>
 				</tr>
 			{% endif %} 
 		{% endfor %}
