@@ -35,7 +35,7 @@ folder_files:
     group: 107
     versie: 1.0.58
     status: Definitief
-    omschrijving: Bij versie 1.0.6 en 1.0.7 van het StUF-koppelvlak Jeugdzorg behorende referentielijstwaarden met waarden van jeugdzorgrollen en instanties per 1-2-2023. De uiterste verwerkingsdatum van wijzigingen voor de december-release 2023 is 2 februari 2024.
+    omschrijving: Bij versie 1.0.6 en 1.0.7 van het StUF-koppelvlak Jeugdzorg behorende referentielijstwaarden met waarden van jeugdzorgrollen en instanties per 1-3-2024. De uiterste verwerkingsdatum van wijzigingen voor de maart-release 2024 is 1 maart 2024.
     datum: 20240112
   - title: StUF-koppelvlak Jeugdzorg - versie 1.0.6 20200708 - schemas (normatieve versie) (zip)
     path: documenten/StUF-koppelvlak_Jeugdzorg_-_versie_1.0.6_20200708_-_schemas_(normatieve_versie).zip
@@ -70,7 +70,7 @@ folder_files:
     group: 106
     versie: 1.0.58
     status: Definitief
-    omschrijving: Bij versie 1.0.6 en 1.0.7 van het StUF-koppelvlak Jeugdzorg behorende referentielijstwaarden met waarden van jeugdzorgrollen en instanties per 1-2-2023. De uiterste verwerkingsdatum van wijzigingen voor de december-release 2023 is 2 februari 2024.
+    omschrijving: Bij versie 1.0.6 en 1.0.7 van het StUF-koppelvlak Jeugdzorg behorende referentielijstwaarden met waarden van jeugdzorgrollen en instanties per 1-3-2024. De uiterste verwerkingsdatum van wijzigingen voor de maart-release 2024 is 1 maart 2024.
     datum: 20240112
 ---
 # Documentatie
