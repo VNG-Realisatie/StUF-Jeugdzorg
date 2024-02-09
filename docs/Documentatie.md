@@ -30,8 +30,8 @@ folder_files:
     status: Definitief
     omschrijving: Beschrijving van het StUF-koppelvlak Jeugdzorg (CORV) versie 1.0.7 in twee varianten, de officiële versie en een exemplaar met gemarkeerde wijzigingen t.o.v. versie 1.0.6.
     datum: 
-  - title: StUF-Kv Jeugdzorg - Referentielijsten v1.0 20240112 (zip)
-    path: documenten/StUF-Kv_Jeugdzorg_-_Referentielijsten_v1.0_20240112.zip
+  - title: StUF-Kv Jeugdzorg - Referentielijsten v1.0 20240209 (zip)
+    path: documenten/StUF-Kv_Jeugdzorg_-_Referentielijsten_v1.0_20240209.zip
     group: 107
     versie: 1.0.58
     status: Definitief
@@ -65,8 +65,8 @@ folder_files:
     status: Definitief
     omschrijving: Beschrijving van het StUF-koppelvlak Jeugdzorg (CORV) versie 1.0.6 in twee varianten, de officiële versie en een exemplaar met gemarkeerde wijzigingen t.o.v. versie 1.0.5.
     datum: 20200708
-  - title: StUF-Kv Jeugdzorg - Referentielijsten v1.0 20240112 (zip)
-    path: documenten/StUF-Kv_Jeugdzorg_-_Referentielijsten_v1.0_20240112.zip
+  - title: StUF-Kv Jeugdzorg - Referentielijsten v1.0 20240209 (zip)
+    path: documenten/StUF-Kv_Jeugdzorg_-_Referentielijsten_v1.0_20240209.zip
     group: 106
     versie: 1.0.58
     status: Definitief
