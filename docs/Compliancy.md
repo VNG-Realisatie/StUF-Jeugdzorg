@@ -27,9 +27,8 @@ standaard. VNG-Realisatie adviseert gemeenten bij aanschaf van software
 die moet voldoen aan deze standaard gebruik te maken van de GIBIT.
 Daarin zijn voorwaarden opgenomen over het gebruik van compliancy
 instrumenten. Door het sluiten van een overeenkomst waarop de GIBIT van
-toepassing is, worden ook de <span style="color:red">Gemeentelijke ICT
-Kwaliteitsnormen<!--[Gemeentelijke ICT
-Kwaliteitsnormen](https://www.vngrealisatie.nl/producten/gemeentelijke-ict-kwaliteitsnormen-bij-de-gibit)--></span>
+toepassing is, worden ook de [Gemeentelijke ICT
+Kwaliteitsnormen](https://vng.nl/projecten/gibit)
 automatisch van kracht. Wat betekent dat onder de GIBIT ingekochte
 producten of diensten aan de Kwaliteitsnormen moeten voldoen.  
 Onderstaande beschrijving definieert de compliance eisen voor
