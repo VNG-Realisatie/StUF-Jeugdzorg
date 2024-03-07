@@ -1,8 +1,8 @@
 ---
 layout: page-with-side-nav
-title: Aan de slag StUF-koppelvlak Jeugdzorg (CORV)
+title: Aan de slag StUF-koppelvlak Jeugdzorg
 ---
-# Aan de slag StUF-koppelvlak Jeugdzorg (CORV)
+# Aan de slag StUF-koppelvlak Jeugdzorg
 
 Om gebruik te kunnen maken van het koppelvlak en daarmee elektronisch en
 beveiligd berichten uit te kunnen wisselen met ketenpartners in het
