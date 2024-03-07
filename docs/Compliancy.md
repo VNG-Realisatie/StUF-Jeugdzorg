@@ -1,8 +1,8 @@
 ---
 layout: page-with-side-nav
-title: Compliancy StUF-koppelvlak Jeugdzorg (CORV)
+title: Compliancy StUF-koppelvlak Jeugdzorg
 ---
-# Compliancy StUF-koppelvlak Jeugdzorg (CORV)
+# Compliancy StUF-koppelvlak Jeugdzorg
 
 | Documentversie | Datum     | Status    |
 |----------------|-----------|-----------|
@@ -32,12 +32,11 @@ Kwaliteitsnormen](https://vng.nl/projecten/gibit)
 automatisch van kracht. Wat betekent dat onder de GIBIT ingekochte
 producten of diensten aan de Kwaliteitsnormen moeten voldoen.  
 Onderstaande beschrijving definieert de compliance eisen voor
-koppelingen die gebaseerd zijn op het StUF Jeugdzorg koppelvlak 1.0
-(CORV).
+koppelingen die gebaseerd zijn op het StUF Jeugdzorg koppelvlak 1.0.
 
 ### Wanneer is een softwareproduct compliant
 
-Een softwareproduct is compliant aan de StUF Jeugdzorg koppelvlak (CORV)
+Een softwareproduct is compliant aan de StUF Jeugdzorg koppelvlak
 1.0 (\*), indien aan alle onderstaande eisen wordt voldaan:
 
 | Nr  | Eis                                                                                                                          |
@@ -50,16 +49,16 @@ Een softwareproduct is compliant aan de StUF Jeugdzorg koppelvlak (CORV)
 zekerheid geeft van 100% interoperabiliteit tussen applicaties, geeft
 dit wel een goede indicatie van de kwaliteit van de ondersteuning van de
 standaard. Compliance wordt als voorwaarde gesteld om aan te mogen
-sluiten op de productieomgeving van de CORV.
+sluiten op de productieomgeving van JUBES (Voorheen CORV).
 
 ## Aantonen compliance
 
 Softwareproducten die compliant zijn aan de StUF Jeugdzorg koppelvlak
-standaard moeten gekoppeld kunnen worden aan de landelijke CORV. Binnen
+standaard moeten gekoppeld kunnen worden aan de landelijke JUBES. Binnen
 de standaard worden twee referentiecomponenten onderscheiden die nodig
-zijn om aan te kunnen sluiten op de CORV. Dit zijn Jeugdzorgapplicatie
+zijn om aan te kunnen sluiten op de JUBES. Dit zijn Jeugdzorgapplicatie
 (JZA) en een Digikoppeling adapter (DKA). Daarnaast wordt ook de
-Gemeentelijke servicebus (GSB) genoemd om berichten te routeren. De CORV
+Gemeentelijke servicebus (GSB) genoemd om berichten te routeren. De  StUF Jeugdzorg
 standaard stelt geen specifieke eisen aan de GSB. Applicaties die
 invulling geven aan zowel de JZA en de DKA kunnen zelfstandig compliancy
 aantonen. Wanneer deze referentiecomponenten door verschillende
@@ -123,7 +122,7 @@ vermeld.
 ## Testen van gemeentelijke implementaties (on premise)
 
 Het is niet mogelijk om testen uit te voeren op de productieomgeving van
-CORV. VenJ hanteert het beleid dat er slechts onder zeer strenge
+JUBES. VenJ hanteert het beleid dat er slechts onder zeer strenge
 voorwaarden informatie uit productiesystemen mag worden verwijderd. Om
 toch deels tegemoet te komen aan de wens om vanuit een gemeentelijke
 on-premise-installatie testen uit te voeren, is het mogelijk om de
