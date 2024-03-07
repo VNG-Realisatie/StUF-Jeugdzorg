@@ -8,8 +8,12 @@ title: Koppelvlak StUF-Jeugdzorg
 **Beheerder:**  VNG Realisatie<br/>
 **Afkorting:**  StUF-CORV
 
-## Inleiding
+## Status en doorontwikkeling
+Verschillende ontwikkelingen maken het vernieuwen van standaarden noodzakelijk om invulling te (blijven) geven aan de behoefte en wensen van gemeenten. De doorontwikkeling van de StUF standaard, de StUF sectormodellen en de StUF koppelvlakken is daarom stopgezet. Alleen wetswijzigingen, wijzigingen in de Logische Ontwerpen van Basisregistraties en gevonden fouten kunnen aanleiding zijn voor het publiceren van een nieuwe versie van deze standaarden. Zo wordt er voor gezorgd dat gemeenten hun werk kunnen blijven doen. Een toelichting op het vernieuwen van de standaarden is te vinden bij [API-standaarden](https://vng-realisatie.github.io/Standaarden/API-standaarden).
 
+Of de doorontwikkeling van StUF-Jeugdzorg nog doorgaat is nog onderwerp van discussie. Justid (Justitiële Informatiedienst) heeft nl. in overweging deze standaard zelf door te ontwikkelen.
+
+## Inleiding
 In het Jeugdzorg-domein werken diverse partijen samen. Met de
 decentralisatie van de Jeugdzorg per 1-1-2015 werd de gemeente één van
 deze partijen. In een uitvoeringsbesluit van de Jeugdzorgwetgeving is
