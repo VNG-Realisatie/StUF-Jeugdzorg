@@ -1,8 +1,8 @@
 ---
 layout: page-with-side-nav
-title: ICT aanbod StUF-koppelvlak Jeugdzorg (CORV)
+title: ICT aanbod StUF-koppelvlak Jeugdzorg
 ---
-# ICT aanbod StUF-koppelvlak Jeugdzorg (CORV)
+# ICT aanbod StUF-koppelvlak Jeugdzorg
 
 ## Welke softwareproducten ondersteunen de standaard?
 
@@ -17,7 +17,7 @@ ondersteunen.
 Om te kunnen sturen op kwalitatief goede inbouw van standaarden en het
 risico op interoperabiliteitsproblemen bij gemeenten preventief te
 verkleinen is door VenJ een Ketentestplatform (KTP) ontwikkeld. Een
-softwareproduct is compliant aan de StUF Jeugdzorg koppelvlak (CORV)
+softwareproduct is compliant aan de StUF Jeugdzorg koppelvlak
 1.0, indien aan alle eisen zoals [
 hier](./Compliancy.md) gesteld
 wordt voldaan en de ketentestrapportage van VenJ in de
@@ -33,7 +33,7 @@ standaard StUF-koppelvlak Jeugdzorg ondersteunen:
 - Stap 1: Ga naar de GEMMA Softwarecatalogus, selecteer (klik op):
   ‘pakketten’.
 - Stap 2: Kies in de linkerkolom onder de kop “standaarden” 'StUF
-  Jeugdzorg (CORV) 1.0'. Het overzicht wordt gegenereerd met alle
+  Jeugdzorg 1.0'. Het overzicht wordt gegenereerd met alle
   softwareproducten van de verschillende leveranciers waarbij wordt
   aangegeven of de standaard in gebruik of in ontwikkeling is.
 
