@@ -134,10 +134,10 @@ testen maken geen onderdeel uit van de compliancytest.
 
 ## Gebruik van het StUF Testplatform
 
-Het StUF Testplatform is een onafhankelijk en formeel toetsinginstrument
+Het [StUF Testplatform](https://vng.nl/projecten/stuf-testplatform) is een onafhankelijk en formeel toetsinginstrument
 voor het testen van koppelingen gebaseerd op standaarden uit de StUF
 familie. Het platform is vanaf eind 2011 in productie en wordt beheerd
-en doorontwikkeld door VNG-Realisatie.
+door Enable-U.
 
 Primair is het StUF Testplatform voor ICT softwareleveranciers die
 werkzaam zijn op de gemeentelijke markt. Zij kunnen vroegtijdig tijdens
@@ -148,9 +148,8 @@ Leveranciers het StUF Testplatform gebruiken om individuele berichten te
 valideren. Daarmee is het een tool dat ontwikkelaars helpt bij het
 ontwikkelen van de noodzakelijke berichten.
 
-Op het [StUF Testplatform](http://www.stuftestplatform.nl) vindt u de
-[handleiding](./documenten/Gebruikershandleiding_StUF_Testplatform.pdf)
-waarin wordt toegelicht hoe het testplatform gebruikt kan worden.
+In de [handleiding](./documenten/Gebruikershandleiding_StUF_Testplatform.pdf)
+wordt toegelicht hoe het testplatform gebruikt kan worden.
 
 ## Bijlage 1: Testscenario’s StUF Testplatform
 
