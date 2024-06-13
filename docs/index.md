@@ -6,6 +6,7 @@ title: Koppelvlak StUF-Jeugdzorg
 
 **Actuele versie:** 1.0.7  
 **Beheerder:**  VNG Realisatie<br/>
+**Status:** In gebruik
 
 ## Status en doorontwikkeling
 Verschillende ontwikkelingen maken het vernieuwen van standaarden noodzakelijk om invulling te (blijven) geven aan de behoefte en wensen van gemeenten. De doorontwikkeling van de StUF standaard, de StUF sectormodellen en de StUF koppelvlakken is daarom stopgezet. Alleen wetswijzigingen, wijzigingen in de Logische Ontwerpen van Basisregistraties en gevonden fouten kunnen aanleiding zijn voor het publiceren van een nieuwe versie van deze standaarden. Zo wordt er voor gezorgd dat gemeenten hun werk kunnen blijven doen. Een toelichting op het vernieuwen van de standaarden is te vinden bij [API-standaarden](https://vng-realisatie.github.io/Standaarden/API-standaarden).
