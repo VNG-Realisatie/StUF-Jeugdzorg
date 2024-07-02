@@ -30,19 +30,19 @@ folder_files:
     status: Definitief
     omschrijving: Beschrijving van het StUF-koppelvlak Jeugdzorg (CORV) versie 1.0.7 in twee varianten, de officiële versie en een exemplaar met gemarkeerde wijzigingen t.o.v. versie 1.0.6.
     datum: 
-  - title: StUF-Kv Jeugdzorg - Referentielijsten v1.0 20240606 (zip)
-    path: documenten/StUF-Kv_Jeugdzorg_-_Referentielijsten_v1.0_20240606.zip
+  - title: StUF-Kv Jeugdzorg - Referentielijsten v1.0 20240702 (zip)
+    path: documenten/StUF-Kv_Jeugdzorg_-_Referentielijsten_v1.0_20240702.zip
     group: 107
-    versie: 1.0.63
+    versie: 1.0.64
     status: Definitief
-    omschrijving: Bij versie 1.0.6 en 1.0.7 van het StUF-koppelvlak Jeugdzorg behorende referentielijstwaarden met waarden van jeugdzorgrollen en instanties per 1-7-2024. De uiterste verwerkingsdatum van wijzigingen voor de juli-release 2024 is 27 juli 2024.
+    omschrijving: Bij versie 1.0.6 en 1.0.7 van het StUF-koppelvlak Jeugdzorg behorende referentielijstwaarden met waarden van jeugdzorgrollen en instanties per 1-8-2024. De uiterste verwerkingsdatum van wijzigingen voor de september-release 2024 is 26 juli 2024.
     datum: 20240508
-  - title: StUF-Kv Jeugdzorg - Referentielijsten v1.0 20240606 (zip)
-    path: documenten/StUF-Kv_Jeugdzorg_-_Referentielijsten_v1.0_20240606.zip
+  - title: StUF-Kv Jeugdzorg - Referentielijsten v1.0 20240702 (zip)
+    path: documenten/StUF-Kv_Jeugdzorg_-_Referentielijsten_v1.0_20240702.zip
     group: 106
-    versie: 1.0.63
+    versie: 1.0.64
     status: Definitief
-    omschrijving: Bij versie 1.0.6 en 1.0.7 van het StUF-koppelvlak Jeugdzorg behorende referentielijstwaarden met waarden van jeugdzorgrollen en instanties per 1-7-2024. De uiterste verwerkingsdatum van wijzigingen voor de juli-release 2024 is 26 juli 2024.
+    omschrijving: Bij versie 1.0.6 en 1.0.7 van het StUF-koppelvlak Jeugdzorg behorende referentielijstwaarden met waarden van jeugdzorgrollen en instanties per 1-8-2024. De uiterste verwerkingsdatum van wijzigingen voor de september-release 2024 is 26 juli 2024.
     datum: 20240508
   - title: StUF-koppelvlak Jeugdzorg - versie 1.0.6 20200708 - schemas (normatieve versie) (zip)
     path: documenten/StUF-koppelvlak_Jeugdzorg_-_versie_1.0.6_20200708_-_schemas_(normatieve_versie).zip
