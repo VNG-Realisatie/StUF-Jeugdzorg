@@ -36,14 +36,14 @@ folder_files:
     versie: 1.0.67
     status: Definitief
     omschrijving: Bij versie 1.0.6 en 1.0.7 van het StUF-koppelvlak Jeugdzorg behorende referentielijstwaarden met waarden van jeugdzorgrollen en instanties per 1-11-2024. De uiterste verwerkingsdatum van wijzigingen voor de november-release 2024 is 25 oktober 2024.
-    datum: 20240905
+    datum: 20241001
   - title: StUF-Kv Jeugdzorg - Referentielijsten v1.0 20241001 (zip)
     path: documenten/StUF-Kv_Jeugdzorg_-_Referentielijsten_v1.0_20241001.zip
     group: 106
     versie: 1.0.67
     status: Definitief
     omschrijving: Bij versie 1.0.6 en 1.0.7 van het StUF-koppelvlak Jeugdzorg behorende referentielijstwaarden met waarden van jeugdzorgrollen en instanties per 1-11-2024. De uiterste verwerkingsdatum van wijzigingen voor de november-release 2024 is 25 oktober 2024.
-    datum: 20240905
+    datum: 20241001
   - title: StUF-koppelvlak Jeugdzorg - versie 1.0.6 20200708 - schemas (normatieve versie) (zip)
     path: documenten/StUF-koppelvlak_Jeugdzorg_-_versie_1.0.6_20200708_-_schemas_(normatieve_versie).zip
     group: 106
