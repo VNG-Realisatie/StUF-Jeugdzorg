@@ -22,7 +22,7 @@ folder_files:
     versie: 
     status: Definitief
     omschrijving: Beschrijving van de wijzigingen in Koppelvlak Jeugdzorg versie 1.0.9 t.o.v. versie 1.0.7.
-    datum: 20200916
+    datum: 20250801
   - title: StUF-Koppelvlak_Jeugdzorg_v1.0.9_20250801.zip
     path: documenten/StUF-Koppelvlak_Jeugdzorg_v1.0.9_20250801.zip
     group: 109
