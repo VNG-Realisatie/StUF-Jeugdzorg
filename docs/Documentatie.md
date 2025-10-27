@@ -15,7 +15,7 @@ folder_files:
     versie: 1.09
     status: Definitief
     omschrijving: XSD-schema’s (normatieve versie) behorende bij de 1.0.9-versie van het StUF-koppelvlak Jeugdzorg.
-    datum: 
+    datum: 20250801
   - title: StUF-koppelvlak Jeugdzorg - Wijzigingen in versie 1.0.9 20250801.xls (zip)
     path: documenten/StUF-koppelvlak_Jeugdzorg_-_Wijzigingen_in_versie_1.0.9_20250801.zip
     group: 109
@@ -29,7 +29,7 @@ folder_files:
     versie: 1.09
     status: Definitief
     omschrijving: Beschrijving van het StUF-koppelvlak Jeugdzorg (CORV) versie 1.0.9 in twee varianten, de officiële versie en een exemplaar met gemarkeerde wijzigingen t.o.v. versie 1.0.7.
-    datum: 
+    datum: 20250801
   - title: StUF-Kv Jeugdzorg - Referentielijsten v1.0 20251006 (zip)
     path: documenten/StUF-Kv_Jeugdzorg_-_Referentielijsten_v1.0_20251006.zip
     group: 109
