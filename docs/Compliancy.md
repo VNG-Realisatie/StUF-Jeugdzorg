@@ -131,3 +131,28 @@ acceptatieomgeving te testen op het Keten Testplatform. Deze
 testmogelijkheid kan desgewenst ook worden gebruikt door
 SAAS-oplossingen om te toetsen of de berichtuitwisseling nog werkt. Deze
 testen maken geen onderdeel uit van de compliancytest.
+
+## Gebruik van het StUF Testplatform
+
+Het [StUF Testplatform](https://vng.nl/projecten/stuf-testplatform) is een onafhankelijk en formeel toetsinginstrument
+voor het testen van koppelingen gebaseerd op standaarden uit de StUF
+familie. Het platform is vanaf eind 2011 in productie en wordt beheerd
+door Enable-U.
+
+Primair is het StUF Testplatform voor ICT softwareleveranciers die
+werkzaam zijn op de gemeentelijke markt. Zij kunnen vroegtijdig tijdens
+de ontwikkeling van software testen of applicatie-applicatiekoppelingen
+voldoen aan StUF. T.b.v. het StUF-koppelvlak Jeugdzorg wordt het StUF
+Testplatform niet ingezet als toetsingsinstrument. Wel kunnen
+Leveranciers het StUF Testplatform gebruiken om individuele berichten te
+valideren. Daarmee is het een tool dat ontwikkelaars helpt bij het
+ontwikkelen van de noodzakelijke berichten.
+
+In de [handleiding](./documenten/Gebruikershandleiding_StUF_Testplatform.pdf)
+wordt toegelicht hoe het testplatform gebruikt kan worden.
+
+## Bijlage 1: Testscenario’s StUF Testplatform
+
+Zie de
+[documentatie](./documenten/Testset_StUF-koppelvlak_Jeugdzorg_1.0.1.zip)
+bij deze testset.
