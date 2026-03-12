@@ -28,7 +28,7 @@ folder_files:
     group: 109
     versie: 1.09
     status: Definitief
-    omschrijving: XSD-schema’s voor Veilig Thuis (geresolvde versie) behorende bij de 1.0.9-versie van het StUF-koppelvlak Jeugdzorg.
+    omschrijving: XSD-schema’s voor Veilig Thuis berichten (geresolvde versie) behorende bij de 1.0.9-versie van het StUF-koppelvlak Jeugdzorg.
     datum: 20251013
   - title: StUF-koppelvlak Jeugdzorg - vvberichtenversie 1.0.9 20251013 - schemas (resolved.zip) (zip)
     path: documenten/StUF-koppelvlak_Jeugdzorg_-_vvberichtenversie_1.0.9_20251013_-_schemas_(resolved.zip
