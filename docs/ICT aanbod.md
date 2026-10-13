@@ -19,7 +19,7 @@ risico op interoperabiliteitsproblemen bij gemeenten preventief te
 verkleinen is door VenJ een Ketentestplatform (KTP) ontwikkeld. Een
 softwareproduct is compliant aan de StUF Jeugdzorg koppelvlak
 1.0, indien aan alle eisen zoals [
-hier](./Compliancy.md) gesteld
+hier](./Compliancy) gesteld
 wordt voldaan en de ketentestrapportage van VenJ in de
 [softwarecatalogus](https://www.softwarecatalogus.nl/GEMMA) is
 geplaatst.
