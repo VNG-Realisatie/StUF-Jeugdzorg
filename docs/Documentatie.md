@@ -51,20 +51,20 @@ folder_files:
     status: Definitief
     omschrijving: Beschrijving van het StUF-koppelvlak Jeugdzorg (CORV) versie 1.0.9 in twee varianten, de officiële versie en een exemplaar met gemarkeerde wijzigingen t.o.v. versie 1.0.7.
     datum: 20250801
-  - title: StUF-Kv Jeugdzorg - Referentielijsten v1.0 20261006 (zip)
-    path: documenten/StUF-Kv_Jeugdzorg_-_Referentielijsten_v1.0_20261006.zip
+  - title: StUF-Kv Jeugdzorg - Referentielijsten v1.0 20261102 (zip)
+    path: documenten/StUF-Kv_Jeugdzorg_-_Referentielijsten_v1.0_20261102.zip
     group: 109
-    versie: 1.0.90
+    versie: 1.0.91
     status: Definitief
-    omschrijving: Bij versie 1.0.7 en 1.0.9 van het StUF-koppelvlak Jeugdzorg behorende referentielijstwaarden met waarden van jeugdzorgrollen en instanties per 1-11-2026. De uiterste verwerkingsdatum van wijzigingen voor de december-release 2026 is 29 oktober 2026.
-    datum: 20261006
-  - title: StUF-Kv Jeugdzorg - Referentielijsten v1.0 20261006 (zip)
-    path: documenten/StUF-Kv_Jeugdzorg_-_Referentielijsten_v1.0_20261006.zip
+    omschrijving: Bij versie 1.0.7 en 1.0.9 van het StUF-koppelvlak Jeugdzorg behorende referentielijstwaarden met waarden van jeugdzorgrollen en instanties per 1-12-2026. De uiterste verwerkingsdatum van wijzigingen voor de december-release 2026 is 27 november 2026.
+    datum: 20261102
+  - title: StUF-Kv Jeugdzorg - Referentielijsten v1.0 20261102 (zip)
+    path: documenten/StUF-Kv_Jeugdzorg_-_Referentielijsten_v1.0_20261102.zip
     group: 107
-    versie: 1.0.90
+    versie: 1.0.91
     status: Definitief
-    omschrijving: Bij versie 1.0.7 en 1.0.9 van het StUF-koppelvlak Jeugdzorg behorende referentielijstwaarden met waarden van jeugdzorgrollen en instanties per 1-11-2026. De uiterste verwerkingsdatum van wijzigingen voor de december-release 2026 is 29 oktober 2026.
-    datum: 20261006
+    omschrijving: Bij versie 1.0.7 en 1.0.9 van het StUF-koppelvlak Jeugdzorg behorende referentielijstwaarden met waarden van jeugdzorgrollen en instanties per 1-12-2026. De uiterste verwerkingsdatum van wijzigingen voor de december-release 2026 is 27 november 2026.
+    datum: 20261102
   - title: StUF-koppelvlak Jeugdzorg - versie 1.0.7 20200916 - schemas (normatieve versie) (zip)
     path: documenten/StUF-koppelvlak_Jeugdzorg_-_versie_1.0.7_20200916_-_schemas_(normatieve_versie).zip
     group: 107
